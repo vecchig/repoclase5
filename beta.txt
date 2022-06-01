@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 primera linea
 
 otra linea en conjunto
+=======
+Soy laura y esto modificando el archivo beta segun la consigna
+
+primera linea
+>>>>>>> 2df3a8533621ed420a5884339834da30ad0b3216
